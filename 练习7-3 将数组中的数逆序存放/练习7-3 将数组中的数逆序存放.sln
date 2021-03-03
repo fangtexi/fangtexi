@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "练习7-3 将数组中的数逆序存放", "练习7-3 将数组中的数逆序存放.vcxproj", "{245F1039-44E9-4F9F-9779-1E8CDC6E96A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{245F1039-44E9-4F9F-9779-1E8CDC6E96A0}.Debug|x64.ActiveCfg = Debug|x64
+		{245F1039-44E9-4F9F-9779-1E8CDC6E96A0}.Debug|x64.Build.0 = Debug|x64
+		{245F1039-44E9-4F9F-9779-1E8CDC6E96A0}.Debug|x86.ActiveCfg = Debug|Win32
+		{245F1039-44E9-4F9F-9779-1E8CDC6E96A0}.Debug|x86.Build.0 = Debug|Win32
+		{245F1039-44E9-4F9F-9779-1E8CDC6E96A0}.Release|x64.ActiveCfg = Release|x64
+		{245F1039-44E9-4F9F-9779-1E8CDC6E96A0}.Release|x64.Build.0 = Release|x64
+		{245F1039-44E9-4F9F-9779-1E8CDC6E96A0}.Release|x86.ActiveCfg = Release|Win32
+		{245F1039-44E9-4F9F-9779-1E8CDC6E96A0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82DCDD7C-1EA8-4D4D-AABE-4AB353658B19}
+	EndGlobalSection
+EndGlobal
